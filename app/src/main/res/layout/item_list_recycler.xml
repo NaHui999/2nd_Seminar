@@ -37,7 +37,7 @@
             android:layout_marginLeft="140dp"
             android:layout_marginTop="60dp"
             android:text="서브타이틀"
-            android:textSize="15sp" />
+            android:textSize="12sp" />
 
 
     </androidx.cardview.widget.CardView>
