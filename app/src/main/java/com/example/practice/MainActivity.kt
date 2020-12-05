@@ -11,6 +11,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
+    /*Happy Main Activity_Github 확인/
     private lateinit var RecyclerAdapter: RecyclerAdapter
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
